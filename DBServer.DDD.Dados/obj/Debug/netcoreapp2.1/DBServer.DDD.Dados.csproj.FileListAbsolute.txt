@@ -1,0 +1,12 @@
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\bin\Debug\netcoreapp2.1\DBServer.DDD.Dominio.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\obj\Debug\netcoreapp2.1\DBServer.DDD.Dados.csproj.CoreCompileInputs.cache
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\obj\Debug\netcoreapp2.1\DBServer.DDD.Dados.AssemblyInfoInputs.cache
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\obj\Debug\netcoreapp2.1\DBServer.DDD.Dados.AssemblyInfo.cs
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\bin\Debug\netcoreapp2.1\DBServer.DDD.Dados.deps.json
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\bin\Debug\netcoreapp2.1\DBServer.DDD.Dados.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\bin\Debug\netcoreapp2.1\DBServer.DDD.Dados.pdb
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\bin\Debug\netcoreapp2.1\DBServer.DDD.Dominio.pdb
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\obj\Debug\netcoreapp2.1\DBServer.DDD.Dados.csprojAssemblyReference.cache
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\obj\Debug\netcoreapp2.1\DBServer.DDD.Dados.csproj.CopyComplete
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\obj\Debug\netcoreapp2.1\DBServer.DDD.Dados.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Dados\obj\Debug\netcoreapp2.1\DBServer.DDD.Dados.pdb

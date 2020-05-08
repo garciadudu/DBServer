@@ -1,0 +1,17 @@
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\DBServer.DDD.Teste.deps.json
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\DBServer.DDD.Teste.runtimeconfig.json
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\DBServer.DDD.Teste.runtimeconfig.dev.json
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\DBServer.DDD.Teste.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\DBServer.DDD.Dominio.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\DBServer.DDD.Dominio.pdb
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\obj\Debug\netcoreapp2.1\DBServer.DDD.Teste.csprojAssemblyReference.cache
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\obj\Debug\netcoreapp2.1\DBServer.DDD.Teste.csproj.CoreCompileInputs.cache
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\obj\Debug\netcoreapp2.1\DBServer.DDD.Teste.AssemblyInfoInputs.cache
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\obj\Debug\netcoreapp2.1\DBServer.DDD.Teste.AssemblyInfo.cs
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\obj\Debug\netcoreapp2.1\DBServer.DDD.Teste.csproj.CopyComplete
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\bin\Debug\netcoreapp2.1\DBServer.DDD.Teste.pdb
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\obj\Debug\netcoreapp2.1\DBServer.DDD.Teste.dll
+C:\sistemas\DBServer\DBServer.DDD\DBServer.DDD.Teste\obj\Debug\netcoreapp2.1\DBServer.DDD.Teste.pdb
